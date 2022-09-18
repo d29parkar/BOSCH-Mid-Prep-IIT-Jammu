@@ -86,16 +86,4 @@ compiled for the desired output in the "Final_outputs folder"
 
 Note that the model does not output the frame number in which no face was detected in the csv file.
 
-Contributors:
 
-Dhiraj Pimparkar
-
-Dakshi Garg
-
-Soubhav Gupta
-
-Aman Garg
-
-Shivank Kapila
-
-Paridhi Mayande
