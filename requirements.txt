@@ -1,0 +1,23 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+torch>=1.5.0
+torchvision>=0.12.0
+opencv-python>=4.2.0.34
+opencv-contrib-python>=4.2.0.34
+numpy>=1.18.3
+Pillow>=7.1.1
+h5py>=2.10.0
+matplotlib>=3.2.1
+tqdm>=4.45.0
+mtcnn==0.1.1
+pandas==1.3.5
+keras==2.7.0
+Keras-Preprocessing==1.1.2
+tensorflow-hub==0.12.0
+tensorflow==2.7.0
+retina-face==0.0.10
+ipython==8.1.1
+
+
+
+
