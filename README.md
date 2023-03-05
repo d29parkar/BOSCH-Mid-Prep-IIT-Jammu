@@ -77,7 +77,6 @@ You can also view the annotated test video from the "Final_outputs" folder with 
 
 
 
-
 If you want to terminate the program anywhere before its completion, press cmd/ctrl + C. 
 
 The number of frames that get processed before the termination gets
