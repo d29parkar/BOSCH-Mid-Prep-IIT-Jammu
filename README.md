@@ -18,6 +18,10 @@ Sample Output of Classification Model:
 
 ![alt text](https://github.com/Aman-garg-IITian/BOSCH-Mid-Prep-IIT-Jammu/blob/master/output/predictions/grandpa.png?raw=true)
 
+Final Output after applying weighted average of classification and regression model on a photo taken from surveillance camera:
+
+![alt text](https://github.com/Aman-garg-IITian/BOSCH-Mid-Prep-IIT-Jammu/blob/master/output/predictions/Final_Output_Sample.png?raw=true)
+
 
 ## Deployment
 
