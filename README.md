@@ -12,7 +12,15 @@ We have tested the code on 3 PC's with and without internet connections, after c
 The code identifies automatically if a GPU is available and runs on it, else it works on CPU.
 Yet if the code doesn't work on GPU, we recommend running it completely on CPU.
 
+## Sample Output
 
+Sample Output of Classification Model:
+
+![alt text](https://github.com/Aman-garg-IITian/BOSCH-Mid-Prep-IIT-Jammu/blob/master/output/predictions/grandpa.png?raw=true)
+
+Final Output after applying weighted average of classification and regression model on a photo taken from surveillance camera:
+
+![alt text](https://github.com/Aman-garg-IITian/BOSCH-Mid-Prep-IIT-Jammu/blob/master/output/predictions/Final_Output_Sample.png?raw=true)
 
 
 ## Deployment
