@@ -1,5 +1,4 @@
-# BOSCH Mid Prep IIT Jammu
-# BOSCH’S AGE AND GENDER DETECTION
+# BOSCH’S AGE AND GENDER DETECTION - Mid Prep - Team IIT Jammu
 
 
 Our team built a solution to estimate the gender and age of people from surveillance video feeds (like mall, retail store, hospital etc.). We have developed a pipeline
